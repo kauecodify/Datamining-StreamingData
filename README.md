@@ -25,5 +25,13 @@ MapReduce, JanusGraph com Apache TinkerPop e Stream Analytics
 
 Python: sklearn, textblob, matplotlib and others
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**MachineLearning.ipynb**
+
+Construção do aprendizado de máquina com base em dados reais do passado...
+
+![image](https://github.com/user-attachments/assets/050c5bcb-b95e-49f6-8da3-7b9ea4110c4a)
+
 
 
